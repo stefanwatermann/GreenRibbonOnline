@@ -1,0 +1,4 @@
+# Ident; Caption; NetPrice; Hint
+1; Standardversand (DHL); 5.95; Lieferzeit 2-3 Tage
+2; Expressversand (DHL); 16.95; Bis 15 Uhr bestellt, Lieferung am nächsten Tag
+3; Abholung im Ladengeschäft; 0.0; Bis 15 Uhr bestellt, Abholung am nächsten Tag ab 9:30 Uhr in 31749 Auetal, Marktplatz 2

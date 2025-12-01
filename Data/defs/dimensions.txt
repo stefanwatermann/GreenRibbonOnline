@@ -1,0 +1,7 @@
+# Ident; DisplayName; MmWidth; MmHeight; NetPrice;
+1; 175mm x 700mm; 175; 700; 20.0
+2; 150mm x 700mm; 150; 700; 16.5
+3; 125mm x 700mm; 125; 700; 13.5
+4; 100mm x 700mm; 100; 700; 12.0
+5; 75mm x 700mm; 75; 700; 10.0
+6; 50mm x 700mm; 50; 700; 8.5

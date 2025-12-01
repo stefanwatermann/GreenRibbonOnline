@@ -1,0 +1,11 @@
+# DisplayName : FontName
+Arial : Arial Unicode MS
+Avenir : Avenir Light
+Book : Avenir Book
+Helvetica : Helvetica
+Lucida : Lucida Grande
+Menlo : Menlo Regular
+Noteworthy : Noteworthy Light
+Optima : Optima Regular
+Times : Times Roman
+Fraktur : UnifrakturMaguntia

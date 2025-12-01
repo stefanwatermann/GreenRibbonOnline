@@ -1,0 +1,6 @@
+# Ident; DisplayName; ColorHexValue (e.g. FFEEDD), NetPriceAdd
+1; schwarz; 000000; 0
+2; gold; ffd700; 0
+3; silber; A5A9B4; 0
+4; rot; ff0000; 0
+5; blau; 0000ff; 0
