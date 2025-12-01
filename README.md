@@ -1,2 +1,2 @@
-# greenribbononline
-GreenRibbon Online - frontend for ribbon design and ordering.
+# GreenRibbon Online
+A web-based frontend for ribbon design and ordering.
