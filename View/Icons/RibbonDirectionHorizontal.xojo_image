@@ -1,0 +1,40 @@
+#tag MultiImage
+Image RibbonDirectionHorizontal
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAABoQzpcVXNlcnNcc3RlZmFcRG9jdW1lbnRzXEdpdEh1YlxHcmVlbnJpYmJvbjNcUGxhdGZvcm1cUmliYm9uRnJvbnRlbmRcSWNvbnNcUmliYm9uRGlyZWN0aW9uSG9yaXpvbnRhbC5wbmcDAAAAAAEABAAAAAABAAAAAAAAAA==
+		FullPath = C:\Users\stefa\Documents\GitHub\Greenribbon3\Platform\RibbonFrontend\Icons\RibbonDirectionHorizontal.png
+		PartialPath = Icons\RibbonDirectionHorizontal.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 150.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 150.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 150.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 40.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

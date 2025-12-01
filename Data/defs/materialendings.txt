@@ -1,0 +1,7 @@
+# Ident; DisplayName; NetPriceAdd
+1; Ohne; 0
+2; Fransen Schwarz; 1.5
+3; Fransen Gold; 1.5
+4; Fransen Silber;1.5
+5; Zick-Zack Schnitt; 1
+6; V-Schnitt; 1

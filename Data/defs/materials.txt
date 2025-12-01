@@ -1,0 +1,8 @@
+# Ident; DisplayName; PreviewFileName; NetPriceAdd
+1; Weiß; weiss_720x600.png; 0
+2; Supersatin Natur; supersatin_natur_720x600.jpg; 2
+3; Supersatin Rot; supersatin_rot_720x600.jpg; 2
+4; Supersatin Wildrose; supersatin_wildrose_720x600.jpg; 2
+5; Moire Weiß; moire_weiss_1054x420.png; 3
+6; Moire Creme; moire_creme_1054x420.png; 3
+7; Moire Rosenholz; moire_rosenholz_1054x420.png; 3

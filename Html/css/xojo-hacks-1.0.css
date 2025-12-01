@@ -1,0 +1,90 @@
+#XojoDisconnect .modal-content {
+	background-color: #fffef1;
+	border: 1px solid #ccd7cb;
+}
+
+.btn-primary {
+	--bs-btn-color: #fff;
+	--bs-btn-bg: #489d5c;
+	--bs-btn-border-color: #489d5c;
+	--bs-btn-hover-color: #fff;
+	--bs-btn-hover-bg: #18992a;
+	--bs-btn-hover-border-color: #18992a;
+	--bs-btn-focus-shadow-rgb: 49,132,253;
+	--bs-btn-active-color: #fff;
+	--bs-btn-active-bg: #18992a;
+	--bs-btn-active-border-color: #18992a;
+	--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+	--bs-btn-disabled-color: #fff;
+	--bs-btn-disabled-bg: #18992a;
+	--bs-btn-disabled-border-color: #18992a;
+}
+
+.btn-secondary {
+    	--bs-btn-color: #000;
+	--bs-btn-bg: #ecf0eb;
+	--bs-btn-border-color: #f8f9fa;
+	--bs-btn-hover-color: #000;
+	--bs-btn-hover-bg: #d3d4d5;
+	--bs-btn-hover-border-color: #c6c7c8;
+	--bs-btn-focus-shadow-rgb: 211,212,213;
+	--bs-btn-active-color: #000;
+	--bs-btn-active-bg: #c6c7c8;
+	--bs-btn-active-border-color: #babbbc;
+	--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+	--bs-btn-disabled-color: #000;
+	--bs-btn-disabled-bg: #f8f9fa;
+	--bs-btn-disabled-border-color: #f8f9fa;
+}
+
+.form-check-input:checked {
+	background-color: #489d5c;
+	border-color: #489d5c;
+}
+
+.XojoTextField > label {
+	font-size: 0.8em;
+}
+
+table > tbody > tr.selected > * {
+	color: #333 !important;
+}
+
+.XojoSegmentedControl>.btn-group-vertical>.btn, .XojoSegmentedControl>.btn-group>.btn {
+	font-size: 0.8em;
+}
+
+.XojoRadioGroup>div>.form-check {
+	font-size: 0.8em;
+}
+
+.search>input, .search>button {
+	font-size: 0.8em;
+}
+
+.dataTables_empty {
+	font-size: 0.8em;
+}
+
+div.modal-body>p {
+	padding: 1em 2em;
+	font-size: 1.1rem !important;
+}
+
+div.modal-footer {
+	justify-content: center !important;
+}
+
+.XojoTextArea>textarea.no-wrap {
+	white-space: pre;
+}
+
+.XojoTextArea>textarea.fixed-font {
+	font-family: monospace, monospace;
+	font-size: 0.9em;
+}
+
+.XojoListBox table.table-gls-none tbody tr,
+.XojoListBox table.table-gls-none tbody td {
+	border-radius: 4px;
+}

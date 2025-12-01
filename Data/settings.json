@@ -1,0 +1,7 @@
+{
+	"DisplayName": "Blüten-Handwerk Edda Watermann",
+	"LogoImageFilename": "bluetenhandwerk.png",
+	"OrderReceiverEmailAddresses": "stefan@margland4.de",
+	"OrderReceiverSubjectText": "Eine neue Bestellung ist eingegangen",
+	"OrderReceiverBodyText": "Eine neue Bestellung ist eingegangen. Bitte bearbeiten Sie die Bestellung anhand der angehängten Dateien."
+}
