@@ -4,10 +4,10 @@ Protected Class MailService
 		Sub Constructor()
 		  Self.MailSocket = New SMTPSecureSocket
 		  
-		  MailSocket.Address = App.ConfigValue("Mail.ServerName", "mail.watermann-it.de").StringValue
+		  MailSocket.Address = App.ConfigValue("Mail.ServerName", "").StringValue
 		  MailSocket.Port = App.ConfigValue("Mail.ServerPort", 465).IntegerValue
-		  MailSocket.Username = App.ConfigValue("Mail.ServerUsername", "stefan@watermann-it.de").StringValue
-		  MailSocket.Password = EncDec.Decrypt(App.ConfigValue("Mail.ServerPasswordEnc", "tUN/qR12d+riAgaPFYqMfg==").StringValue, App.kMasterPass)
+		  MailSocket.Username = App.ConfigValue("Mail.ServerUsername", "").StringValue
+		  MailSocket.Password = EncDec.Decrypt(App.ConfigValue("Mail.ServerPasswordEnc", "").StringValue, App.kMasterPass)
 		  
 		  MailSocket.SMTPConnectionType = SMTPSecureSocket.SMTPConnectionTypes.SSLTLS
 		  MailSocket.SSLConnectionType = SMTPSecureSocket.SSLConnectionTypes.TLSv12
