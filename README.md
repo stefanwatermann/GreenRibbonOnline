@@ -6,7 +6,7 @@ Die Plattform ist die ideale Ergänzung zur Schleifendrucksoftware [GreenRibbon]
 
 ## Entwicklung
 
-Für die Entwicklung und zum kompilieren wird eine [XOJO](https://www.xojo.com) Professional Lizenz benötigt.
+Für die Entwicklung und zum Kompilieren wird eine [XOJO](https://www.xojo.com) Professional Lizenz benötigt.
 Im Verzeichnis "Source" befinden sich das Projekt und alle erforderlichen Quelldateien.
 
 ## Betrieb
