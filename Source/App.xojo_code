@@ -860,7 +860,7 @@ Inherits LobBase.LobWebApplication
 	#tag EndProperty
 
 
-	#tag Constant, Name = kMasterPass, Type = String, Dynamic = False, Default = \***REMOVED***, Scope = Public, Description = 50617373776F72207573656420666F7220656E632F64656372797072696F6E206F662070617373776F7264732073746F72656420696E20636F6E6669672066696C65732E
+	#tag Constant, Name = kMasterPass, Type = String, Dynamic = False, Default = \"TODO", Scope = Public, Description = 50617373776F72207573656420666F7220656E632F64656372797072696F6E206F662070617373776F7264732073746F72656420696E20636F6E6669672066696C65732E
 	#tag EndConstant
 
 	#tag Constant, Name = kWorkLoadDurationDays, Type = Double, Dynamic = False, Default = \"5", Scope = Public
