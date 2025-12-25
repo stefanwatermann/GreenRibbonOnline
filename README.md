@@ -1,6 +1,6 @@
 # GreenRibbon Schleifendruck-Plattform
 
-Die GreenRibbon Kranzschleifendruck-Plattform bietet eine Lösung zur web-basierten Gestaltung und Bestellabwicklung von Trauerkranz- oder Schmuckschleifen.
+Die GreenRibbon Kranzschleifendruck-Plattform bietet für Floristen und Gärtereien eine Lösung zur web-basierten Gestaltung und Bestellabwicklung von Trauerkranz- oder Schmuckschleifen.
 
 Die Plattform ist die ideale Ergänzung zur Schleifendrucksoftware [GreenRibbon](https://www.greenribbon.de) Desktop, kann aber auch ohne diese benutzt werden. Sie erlaubt die Erstellung von Kranzschleifen durch den Kunden direkt im Webbrowser und deckt den vollständigen Prozess der Bestellabwicklung beim Betreiber der Plattform ab.
 
